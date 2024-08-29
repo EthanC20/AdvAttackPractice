@@ -3,6 +3,8 @@
 > 比赛参考[2024羊城杯粤港澳大湾区网络安全大赛本科组](https://github.com/CTF-Archives/2024-YCB-Undergraduate) 
 >
 > 参赛队伍：Del0n1x；ranking：23/500（竞争太激烈力，打麻了😭）
+>
+> 队伍[writeup](https://www.yuque.com/keyboard-ovrmx/scxvuu/rckx59lv20a3h6uy?singleDoc# 《2024 羊城杯》)已公开访问，欢迎师傅们参考交流
 
 ## NLP_Model_Attack
 
