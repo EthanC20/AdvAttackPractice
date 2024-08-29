@@ -1,6 +1,6 @@
 # AdvAttackPractice
 
-> 比赛参考[2024羊城杯粤港澳大湾区网络安全大赛本科组](https://github.com/CTF-Archives/2024-YCB-Undergraduate) 
+> 比赛参考2024羊城杯粤港澳大湾区网络安全大赛本科组[2024-YCB-Undergraduate](https://github.com/CTF-Archives/2024-YCB-Undergraduate) 
 >
 > 参赛队伍：Del0n1x；ranking：23/500（竞争太激烈力，打麻了😭）
 >
