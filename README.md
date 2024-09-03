@@ -12,11 +12,15 @@
 
 > 题目分值：已答出45次，初始分值500.0，当前分值483.2，解出分值482.43 题目难度：中等
 
+预训练三分类模型distilBert，攻击策略为经典PWWSRen2019
+
 使用[TextAttack](https://github.com/QData/TextAttack)工具箱，详细教程和代码示例参考[TextAttack Documentation — TextAttack 0.3.10 documentation](https://textattack.readthedocs.io/en/master/)，各类API文档使用方法写得很好，writeup也可以写得很简洁。
 
 ## Targeted_Image_adv_attacks
 
 > 题目分值：已答出10次，初始分值500.0，当前分值499.3，解出分值499.13 题目难度：困难
+
+预训练模型为densenet121_catdogfox_classify，攻击策略为PGD，各项扰动参数为eps=4/255, alpha=0.5/255, steps=12, random_start=True
 
 使用[torchattacks](https://github.com/Harry24k/adversarial-attacks-pytorch)工具箱，好用爱用，
 
